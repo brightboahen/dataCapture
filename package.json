@@ -1,0 +1,13 @@
+{
+  "name": "Ve-JavaScript-Test",
+  "version": "0.0.1",
+  "private": true,
+  "devDependencies": {
+    "browser-sync": "^2.14.0",
+    "gulp": "^3.9.1",
+    "jasmine-core": "^2.2.0",
+    "karma": "^0.12.31",
+    "karma-jasmine": "^0.3.5",
+    "run-sequence": "^1.2.2"
+  }
+}
